@@ -1,4 +1,4 @@
-# BelChat
+# CoinsKite Chat App
 
 ### This Chat App is Made Using React Native , Firebase With GiftedChat
 
@@ -49,21 +49,13 @@ firebase.initializeApp({
 * react-native-gifted-chat
 * react-native-community/google-signin
 
-## Check Out My Youtube Channel
-
-[Youtube Channel - Belgin Android](https://youtube.com/c/belginandroid)
-
 ## Sample Preview
 
 <img src="https://user-images.githubusercontent.com/61349423/94794860-1ab97080-03fa-11eb-8e87-eba1c55b8a4b.jpg" width="282" height="501">
 
-## Authors
-
-* **Belgin Android** - *All Works* - [Belgin Android](https://github.com/Belgin-Android)
-
 ## Problems ?
 
-* Contact Me At [Instagram - @reactnative.modules](https://www.instagram.com/reactnative.modules/)
+* Contact Me At [Instagram - @coinskite](https://www.instagram.com/coinskite/)
 
 ## Acknowledgments
 
