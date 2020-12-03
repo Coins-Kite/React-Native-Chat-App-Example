@@ -63,3 +63,8 @@ firebase.initializeApp({
 * Inspiration
 * etc
 
+## Hire Us 
+
+* [Website](https://coinskite.com/)
+* [Instagram](https://www.instagram.com/coinskite/)
+
